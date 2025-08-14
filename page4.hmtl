@@ -1,0 +1,59 @@
+<html>
+    <head>
+        <title>page 4</title>
+    </head>
+    <body>
+    <center>
+        <br>
+        <h1><u>ELECTRICAL AND ELECTRONICS ENGINEERING</u></h1>
+        <h2><i><u>LIBRARY</u></i></h2>
+        <form >
+            <table border="3">
+                <tr>
+                    <th>S.NO</th>
+                    <th>BOOK NAME</th>
+                    <th>BOOK DETAILS</th>
+                    <th>BOOK IMAGE</th>
+                    <th>BUY LINK</th>
+                </tr>
+                <tr>
+                    <td>1.</td>
+                    <td> Control Systems  engineering                     </td>
+                    <td><b>Author:</b><br>Norman S. Nise.<br><b>Edition:<br></b>8th Edition published on 2014</td>
+                    <td><center><img src="c.jpg" alt="eee" height="80" width="50"></center></td>
+                    <td><a href="project 1 p5.html"><u>Buy Link</u></a></td>
+                </tr>
+                <tr>
+                    <td>2.</td>
+                    <td>Principles of Electrical Measurement</td>
+                    <td><b>Author:</b><br>E. W. Golding and F. C. Widdis.<br><b>Edition:<br></b>5th Edition published on2009</td>
+                    <td><center><img src="de.jpg" alt="eee" height="80" width="50"></center></td>
+                    <td><a href="project 1 p5.html"><u>Buy Link</u></a></td>
+                </tr>
+                <tr>
+                    <td>3.</td>
+                    <td>Electronic Instrumentation and Measurements</td>
+                    <td><b>Author:</b><br>W. D. Cooper and A. D. Helfrick.<br><b>Edition:<br></b>3rd Edition published on 2006</td>
+                    <td><center><img src="b.jpg" alt="eee" height="80" width="50"></center></td>
+                    <td><a href="project 1 p5.html"><u>Buy Link</u></a></td>
+                </tr>
+                <tr>
+                    <td>4.</td>
+                    <td>Introduction to Electrodynamics</td>
+                    <td><b>Author:</b><br>David J. Griffiths.<br><b>Edition:<br></b> 4th Edition published on 2017
+                    </td>
+                    <td><center><img src="img.html" alt="eee" height="80" width="50"></center></td>
+                    <td><a href="project 1 p5.html"><u>Buy Link</u></a></td>
+                </tr>
+                <tr>
+                    <td>5.</td>
+                    <td> Analog Integrated Circuit Design</td>
+                    <td><b>Author:</b><br>Tony Chan Carusone, David A. Johns, and Kenneth W. Martin.<br><b>Edition:<br></b>2nd Edition published on 2011</td>
+                    <td><center><img src="a.jpg" alt="eee" height="80" width="50"></center></td>
+                    <td><a href="project 1 p5.html"><u>Buy Link</u></a></td>
+                </tr>
+            </table>
+        </form>
+    </center>
+     </body>
+</html>
